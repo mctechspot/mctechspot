@@ -1,0 +1,1 @@
+Hello! I am @thelearner411. I enjoy coding all sorts of projects. My specialty is application development, mainly for the web, but I also do mobile application development. I also delve into data science, machine learning and deep learning. Check out the projects in my repository and do not be shy to reach out if you would like to collaborate on anything.
