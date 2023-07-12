@@ -1,6 +1,6 @@
 <h1 align="center">Full-Stack Software Engineer 💻 </h1>
 
-<p>Welcome to my GitHub profile. I am the @thelearner411 - a Full-Stack Software Engineer.</p> 
+<p>Welcome to my GitHub profile. I am the thelearner411 - a Full-Stack Software Engineer.</p> 
   
 Here you will find repositories of tech projects that I have worked on. I am passionate about delivering useful and robust web and mobile applications at every stage of the development process - from the skeleton of the database to the backend configuration to the frontend styling.
 
