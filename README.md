@@ -10,4 +10,4 @@ Please take a look at my repositories. Do not be shy to reach out if you would l
 
 <a href = "mailto:collinsinfospot@gmail.com" target="_blank">📧 collinsinfospot@gmail.com</a><br>
 <a href = "https://www.linkedin.com/in/mikhaile-collins/" target="_blank">💼 LinkedIn</a>
-
+<a href = "https://www.mikhailecollins.com/" target="_blank">🌐 My Website</a>
