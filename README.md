@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-  src="https://github.com/thelearner411/thelearner411/blob/main/assets/github-banner.gif"
+  src="https://github.com/thelearner411/thelearner411/blob/dev/assets/github-banner.gif"
   alt="GitHub Profile Banner"
   width="450"
   height="auto"
