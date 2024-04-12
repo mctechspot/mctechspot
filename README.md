@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Software and Artificial Intelligence Engineer 💻 </h1>
+<h1 align="center">Full-Stack Software and Artificial Intelligence Engineer</h1>
 
 <p align="center">
   <img
@@ -18,5 +18,5 @@ Moreover, I delve into Data Science, Machine Learning and Deep Learning as some 
 
 Please take a look at my repositories. Do not be shy to reach out if you would like to collaborate on any project.
 
-<a href = "https://mikhailecollins.com/" target="_blank">🌐 My Website</a><br>
-<a href = "https://linkedin.com/in/mikhaile-collins/" target="_blank">💼 LinkedIn</a><br>
+<a href = "https://mikhailecollins.com/" target="_blank" style="text-decoration: none;">🌐 My Website</a><br>
+<a href = "https://linkedin.com/in/mikhaile-collins/" target="_blank" style="text-decoration: none;">💼 LinkedIn</a><br>
