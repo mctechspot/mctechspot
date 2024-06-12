@@ -10,7 +10,7 @@
   />
 </p>
 
-<p>Welcome to my GitHub profile. I am the thelearner411 - a Full-Stack Software and Artificial Intelligence Engineer.</p> 
+<p>Welcome to my GitHub profile. I am mctechspot - a Full-Stack Software and Artificial Intelligence Engineer.</p> 
   
 Here you will find repositories of tech projects that I have worked on. I am passionate about delivering useful and robust web and mobile applications at every stage of the development process - from the skeleton of the database to the backend configuration to the frontend styling.
 
